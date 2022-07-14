@@ -1,6 +1,6 @@
 # Contributors
 
-Add your **i) Github username** and **ii) GitHub profile link** to the Contributors section below (ensure it's in numerical order):
+Add your **i) Github username** and **ii) GitHub profile link** to the **Contributors section** below (ensure it's in numerical order):
 
 ## Owners
 1. [melvincwng](https://github.com/melvincwng)
