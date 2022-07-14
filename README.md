@@ -19,11 +19,11 @@ Contribute to your very first open source project in this beginner-friendly code
 
 This code repository is still a 'Work In Progress' at the moment...
 
+Kindly **wait** for updates to the code repository.
+
 But feel free to start submitting your contributions/PRs ^^
 
-Also, in the meantime, please **follow me** on GitHub, **star** this repository, **share** it with your friends, and kindly **wait** for updates to the code repository.
-
-Please **wait** for my updates to the code repository.
+Also, in the meantime, please **follow me** on GitHub, **star** this repository, **share** it with your friends.
 
 Thanks for the kind understanding 😊
 
