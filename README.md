@@ -1,4 +1,4 @@
-# Your-First-Open-Source-Project
+# Your First Open Source Project
 New to Open Source Projects & not sure where to begin? 
 
 Fret not! 
@@ -11,14 +11,14 @@ Contribute to your very first open source project in this beginner-friendly code
 3. Submit a PR.
 4. Wait for your PR to be reviewed, approved & merged by an admin/owner.
 5. To indicate your interest in joining this organization, for the time-being, kindly either **a) star this repo** or **b) submit a PR**.
-6. As of right now, I will be manually adding users to this organization should they indicate their interest. I'm in the midst of setting up an automated GitHub Actions pipeline to automatically invite users when they raise an issue or submit a PR in the future.
+6. As of right now, we will be manually adding users to this organization should they indicate their interest. We are in the midst of setting up an automated GitHub Actions pipeline to automatically invite users when they raise an issue or submit a PR in the future.
 
 ## Status
 This code repository is still a 'Work In Progress' at the moment...
 
-In the meantime, please **follow me** on GitHub, **star** this repository, and **share** it with your friends.
+But feel free to start submitting your contributions/PRs ^^
 
-Please **wait** for my updates to the code repository.
+Also, in the meantime, please **follow me** on GitHub, **star** this repository, **share** it with your friends, and kindly **wait** for updates to the code repository.
 
 Thanks for the kind understanding 😊
 
