@@ -14,3 +14,4 @@ Add your **i) Github username** and **ii) GitHub profile link** to the **Contrib
 5. [The-Real-Thisas](https://github.com/The-Real-Thisas)
 6. [Crushoverride007](https://github.com/Crushoverride007)
 7. [faintout](https://github.com/faintout)
+9. [AlexRixten](https://github.com/AlexRixten)
