@@ -16,3 +16,4 @@ Add your **i) Github username** and **ii) GitHub profile link** to the **Contrib
 7. [faintout](https://github.com/faintout)
 8. [perfectdev000](https://github.com/perfectdev000)
 9. [AlexRixten](https://github.com/AlexRixten)
+10. [HarmonySkull](https://github.com/HarmonySkull)
