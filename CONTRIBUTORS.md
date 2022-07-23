@@ -18,3 +18,4 @@ Add your **i) Github username** and **ii) GitHub profile link** to the **Contrib
 9. [AlexRixten](https://github.com/AlexRixten)
 10. [HarmonySkull](https://github.com/HarmonySkull)
 11. [ParadoxElder](https://github.com/ParadoxElder)
+12. [Tran Nguyen Thuong Truong](https://github.com/thuongtruong1009)
