@@ -19,3 +19,4 @@ Add your **i) Github username** and **ii) GitHub profile link** to the **Contrib
 10. [HarmonySkull](https://github.com/HarmonySkull)
 11. [ParadoxElder](https://github.com/ParadoxElder)
 12. [Tran Nguyen Thuong Truong](https://github.com/thuongtruong1009)
+13. [Mar'i Adhari](https://github.com/mariadhari6)
