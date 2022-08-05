@@ -12,7 +12,7 @@ Contribute to your very first open source project in this beginner-friendly code
 2. Add your Github username and Github profile link in the CONTRIBUTORS.md file.
 3. Submit a PR.
 4. Wait for your PR to be reviewed, approved & merged by an admin/owner.
-5. If there are issues with your PRs, please revise them in accordance to the comments made by the admins.
+5. If there are issues with your PR, please revise them in accordance to the comments made by the admins.
 
 ## How to join this organization?
 
