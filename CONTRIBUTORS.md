@@ -22,4 +22,5 @@ Add your **i) Github username** and **ii) GitHub profile link** to the **Contrib
 13. [Mar'i Adhari](https://github.com/mariadhari6)
 14. [luciferx48](https://github.com/luciferx48)
 15. [nosacodes4fun](https://github.com/nosacodes4fun)
+16. [Halid](https://github.com/imhalid)
 
