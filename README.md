@@ -21,7 +21,7 @@
     - Click [here](https://github.com/Your-First-Open-Source-Project)
     - Then click on 'People' tab
     - Next, toggle your organization visibility from 'Private' to 'Public'.
-5. Admins/Owners of the organization are also free to invite any other GitHub users to the organization.
+5. Admins/Owners of the organization are free to invite any other GitHub users to the organization.
 
 ## Status
 - This code repository is still a 'Work In Progress' at the moment...
