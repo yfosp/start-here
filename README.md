@@ -20,7 +20,7 @@ Contribute to your very first open source project in this beginner-friendly code
     - **a) Star this repo**
     - **b) Submit a PR**
     - **c) Raise an issue titled 'I wish to join this organization'**.
-2. Alternatively, admins can manually invite their friends/followers to this organization.
+2. Alternatively, admins/owners can manually invite their friends/followers to this organization.
 3. As of right now, we are manually adding users to this organization either through the user's indication of interest or through admin invites.
 4. We are in the midst of setting up an automated GitHub Actions pipeline to automatically invite users when they raise an issue or submit a PR in the future.
 5. After joining this organization, please click [here](https://github.com/Your-First-Open-Source-Project) > Then click on 'People' tab > Toggle your organization visibility from 'Private' to 'Public'.
