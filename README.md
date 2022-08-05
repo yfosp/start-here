@@ -12,7 +12,7 @@ Contribute to your very first open source project in this beginner-friendly code
 2. Add your Github username and Github profile link in the CONTRIBUTORS.md file.
 3. Submit a PR.
 4. Wait for your PR to be reviewed, approved & merged by an admin/owner.
-5. To indicate your interest in joining this organization, for the time-being, kindly either **a) star this repo** or **b) submit a PR**.
+5. To indicate your interest in joining this organization, for the time-being, kindly either **a) star this repo**, **b) submit a PR** or **c) raise an issue titled 'I wish to join this organization'**.
 6. As of right now, we will be manually adding users to this organization should they indicate their interest. We are in the midst of setting up an automated GitHub Actions pipeline to automatically invite users when they raise an issue or submit a PR in the future.
 7. After joining this organization, please click [here](https://github.com/Your-First-Open-Source-Project) > Then click on 'People' tab > Toggle your organization visibility from 'Private' to 'Public'.
 
@@ -30,7 +30,8 @@ Thanks for the kind understanding 😊
 
 ## To Do's
 
-- Set up GitHub Actions pipeline to automate the inviting of users to this organization (those who have raised an issue or submitted a PR)
+> **Note**
+> To set up GitHub Actions pipeline to automate the inviting of users to this organization (those who have raised an issue or submitted a PR - KIV)
 
 ## Credits
 
