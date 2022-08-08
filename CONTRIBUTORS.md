@@ -29,4 +29,4 @@ Add your **i) Github username** and **ii) GitHub profile link** to the **Contrib
 18. [3ba2ii](https://github.com/3ba2ii)
 19. [AshwinJadhav818](https://github.com/ashwinjadhav818)
 20. [Csaba79-coder](https://github.com/Csaba79-coder)
-21. [lnginyard] (<https://github.com/lnginyard>)
+21. [lnginyard] (https://github.com/lnginyard)
