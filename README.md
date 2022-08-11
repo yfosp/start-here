@@ -12,9 +12,9 @@
 
 ## How to join this organization?
 1. To indicate your interest in joining this organization, kindly do **one** of the following:
-    - **a) Star this repo**
-    - **b) Submit a PR**
-    - **c) Raise an issue titled 'I wish to join this organization'**
+    -  **a) Star this repo**
+    -  **b) Submit a PR**
+    -  **c) Raise an issue titled 'I wish to join this organization'**
 2. Once you've indicated your interest, an admin will send an invitation to your GitHub account & email for you to join the organization.
 3. We are in the midst of setting up an **automated** GitHub Actions pipeline to automatically invite users when they raise an issue or submit a PR, in the future.
 4. After joining this organization, please do the following:
