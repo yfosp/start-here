@@ -33,3 +33,4 @@ Add your **i) Github username** and **ii) GitHub profile link** to the **Contrib
 22. [augustoaraujoo](https://github.com/augustoaraujoo)
 23. [CasualAnouar](https://github.com/CasualAnouar)
 24. [nirjhorsaha](https://github.com/nirjhorsaha)
+25. [CoderUsman](https://github.com/CoderUsman)
