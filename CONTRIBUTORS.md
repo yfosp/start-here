@@ -37,4 +37,4 @@ Add your **i) Github username** and **ii) GitHub profile link** to the **Contrib
 26. [doguedogue](https://github.com/doguedogue)
 27. [ayushved78](https://github.com/ayushved78)
 28. [mohdcode](https://github.com/Mohdcode)
-29. [Ubaidullahqureshi].(https://github.com/Ubaidullahqureshi)
+29. [Ubaidullahqureshi](https://github.com/Ubaidullahqureshi)
