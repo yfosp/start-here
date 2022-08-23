@@ -1,16 +1,24 @@
-name: Invitation
-
-on: [pull_request_target, issues]
+on:
+  issues:
+    types: [labeled]
 
 jobs:
-  greeting:
+  automate_invite:
     runs-on: ubuntu-latest
-    permissions:
-      issues: write
-      pull-requests: write
     steps:
-    - uses: actions/first-interaction@v1
-      with:
-        repo-token: ${{ secrets.GITHUB_TOKEN }}
-        issue-message: '<h1>Thanks for your interest to join this organization</h1> Welcome to the community! :nerd_face:'
-        pr-message: '<h1>Thanks for your contribution to this project :smiley_face:</h1> Welcome to the community! :nerd_face:'
+      - name: Invite on label
+        uses: vj-abigo/invite-on-label@v1.3
+        with:
+          organization: Your First Open Source Project
+          label: invite me to the organization
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          comment: |
+            Hello there 👋🏻
+            Thank you for your interest in 'Your First Open Source Project'!
+            Please take note of the following:
+            - Accept the invitation sent to you via email.
+            - Change the appearance of this organization to 'Public' over [here](https://github.com/orgs/Your-First-Open-Source-Project/people).
+            - Feel free to ask questions in the 'Discussions' tab
+            Welcome to our community! Hope to see your first PR to the organization :)
+        env:
+          INVITE_TOKEN: ${{ secrets.INVITE_TOKEN }}
