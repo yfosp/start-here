@@ -1,5 +1,5 @@
 ---
-name: Invitation to the Your First Open Source Project Organization
+name: Invitation to Your First Open Source Project Organization
 about: "I want be part of this awesome community \U0001F973\U0001F389\U0001F38A"
 title: Please invite me to the GitHub Community Organization
 labels: invite me to the organization
