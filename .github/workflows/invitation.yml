@@ -1,0 +1,16 @@
+name: Invitation
+
+on: [pull_request_target, issues]
+
+jobs:
+  greeting:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      pull-requests: write
+    steps:
+    - uses: actions/first-interaction@v1
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        issue-message: '<h1>Thanks for your interest to join this organization</h1> Welcome to the community! :nerd_face:'
+        pr-message: '<h1>Thanks for your contribution to this project :smiley_face:</h1> Welcome to the community! :nerd_face:'
