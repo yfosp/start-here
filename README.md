@@ -11,14 +11,16 @@
 5. If there are issues with your PR, please revise them in accordance to the comments made by the admins.
 
 ## How to join this organization?
-1. To indicate your interest in joining this organization, kindly do **one** of the following:
-    - **a) Star this repo**
-    - **b) Submit a PR**
-    - **c) Raise an issue titled 'I wish to join this organization'**
-2. Once you've indicated your interest, an admin will send an invitation to your GitHub account & email for you to join the organization.
-3. We are in the midst of setting up an **automated** GitHub Actions pipeline to automatically invite users when they raise an issue or submit a PR, in the future.
+1. To indicate your interest in joining this organization, kindly do the following:
+    - **Go to the 'Issues' tab**
+    - **Click on the 'New issue' button**
+    - **Raise an issue titled 'Invitation to Your First Open Source Project Organization'**
+2. Once you've submitted an issue, the GitHub Actions Bot will will send an invitation link to your email for you to join the organization.
+3. Kindly check your email and accept the invitation to join our organization.
 4. After joining this organization, please do the following:
-    - Click [here](https://github.com/Your-First-Open-Source-Project)
+    - Star this repo
+    - Submit a PR containing your name & GitHub profile link in CONTRIBUTORS.md
+    - Next, click [here](https://github.com/Your-First-Open-Source-Project)
     - Then click on 'People' tab
     - Next, toggle your organization visibility from 'Private' to 'Public'.
 5. Admins/Owners of the organization are free to invite any other GitHub users to the organization.
