@@ -32,7 +32,6 @@
 
 ## To Do's (KIV)
 > **Note**
-> - Set up GitHub Actions pipeline to automate the inviting of users to this organization (those who have raised an issue or submitted a PR)
 > - Think of new open source code repositories which members can contribute to
 
 ## Credits
