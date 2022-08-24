@@ -7,9 +7,11 @@ assignees: ''
 
 ---
 
-<h2>I want to join this organization</h2>
+<h2>
+  I want to join this organization!
+</h2>
 <p>
-Once you submitted this issue, the GitHub Actions bot will send you an email invitation. 
-
-Please kindly accept to join our organization :smile:
+  Once you submitted this issue, the GitHub Actions bot will send you an email invitation.
+  
+  Please kindly accept to join our organization :smile:
 </p>
