@@ -13,8 +13,8 @@ reviewers:
 numberOfReviewers: 0
 
 # A number of assignees to add to the issues/PRs
-# Set to 0 to add all of the assignees.
-# If unset, it uses numberOfReviewers, hence also setting reviewers as assignees.
+# Set to 0 to add all of the assignees
+# If unset, it uses numberOfReviewers, hence also setting reviewers as assignees
 numberOfAssignees: 0
 
 # A list of keywords to be skipped the process if issue/PR's title include it
