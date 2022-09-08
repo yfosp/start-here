@@ -5,7 +5,7 @@ addReviewers: true
 addAssignees: true
 
 # Set to 'author' to add issue's/PR's author as a assignee
-# addAssignees: author
+addAssignees: author
 
 # A list of reviewers to be added to issues/PRs (GitHub user name)
 reviewers:
@@ -22,8 +22,8 @@ numberOfReviewers: 0
 # A number of assignees to add to the issues/PRs
 # Set to 0 to add all of the assignees.
 # Uses numberOfReviewers if unset.
-# numberOfAssignees: 2
+# numberOfAssignees: 0
 
 # A list of keywords to be skipped the process if issue/PR's title include it
-# skipKeywords:
-#   - wip
+skipKeywords:
+  - wip
