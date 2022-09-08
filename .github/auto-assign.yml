@@ -1,9 +1,6 @@
 # Set to true to add reviewers to issues/PRs
 addReviewers: true
 
-# Set to true to add assignees to issues/PRs
-addAssignees: true
-
 # Set to 'author' to add issue's/PR's author as a assignee
 addAssignees: author
 
