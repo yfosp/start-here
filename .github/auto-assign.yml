@@ -1,9 +1,6 @@
 # Set to true to add reviewers to issues/PRs
 addReviewers: true
 
-# Set to true to add assignees to issues/PRs
-addAssignees: true
-
 # Set to 'author' to add issue's/PR's author as a assignee
 addAssignees: author
 
@@ -15,14 +12,10 @@ reviewers:
 # Set 0 to add all the reviewers (default: 0)
 numberOfReviewers: 0
 
-# A list of assignees, overrides reviewers if set
-# assignees:
-#   - assigneeA
-
 # A number of assignees to add to the issues/PRs
 # Set to 0 to add all of the assignees.
-# Uses numberOfReviewers if unset.
-# numberOfAssignees: 0
+# If unset, it uses numberOfReviewers, hence also setting reviewers as assignees.
+numberOfAssignees: 0
 
 # A list of keywords to be skipped the process if issue/PR's title include it
 skipKeywords:
