@@ -34,7 +34,8 @@
 
 ## To Do's (KIV)
 > **Note**
-> - Think of new open source code repositories which members can contribute to
+> - Think of new open source code repositories which members can contribute to. Possible ideas:
+>   - A Community Website built using React and TypeScript 🌐
 
 ## Credits
 - Organization logo created by freepik - <a href="https://www.freepik.com/vectors/html">www.freepik.com</a>
