@@ -22,7 +22,7 @@
     - Submit a PR containing your name & GitHub profile link in CONTRIBUTORS.md (if you haven't done so yet)
     - Next, click [here](https://github.com/Your-First-Open-Source-Project)
     - Then click on 'People' tab
-    - Next, toggle your organization visibility from 'Private' to 'Public'.
+    - Next, toggle your organization visibility from 'Private' to 'Public'
 5. Admins/Owners of the organization are free to invite any other GitHub users to the organization.
 
 ## Status
