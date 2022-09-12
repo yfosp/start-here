@@ -4,6 +4,8 @@ on:
     types: [opened]
   pull_request:
     types: [opened]
+  pull_request_target: # To fix the HttpError: Resource not accessible by integration
+    types: [opened]
 permissions:
   issues: 'write' # To fix the HttpError: Resource not accessible by integration
   pull-requests: 'write' # To fix the HttpError: Resource not accessible by integration
