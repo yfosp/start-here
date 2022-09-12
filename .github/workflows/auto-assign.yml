@@ -2,12 +2,10 @@ name: Auto Assign
 on:
   issues:
     types: [opened]
-  pull_request_target: # To fix the HttpError: Resource not accessible by integration
+  # To fix the HttpError: Resource not accessible by integration (use this instead of 'pull_request')
+  pull_request_target:
     types: [opened]
   push:
-permissions:
-  issues: 'write' # To fix the HttpError: Resource not accessible by integration
-  pull-requests: 'write' # To fix the HttpError: Resource not accessible by integration
 jobs:
   run:
     runs-on: ubuntu-latest
