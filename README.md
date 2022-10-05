@@ -37,8 +37,8 @@
 > - Think of new open source code repositories which members can contribute to. 
 > - Possible ideas:
 >   - A Community Website built using either using either a) HTML/CSS/JS or b) React.js/Next.js/JavaScript/TypeScript 🌐
->   - A beginner-friendly code repository where newcomers to programming write their first "Hello World" program 👋
->   - A educational code repository consolidating various JS/Python mini projects & various programming languages cheatsheets or resources 📚
+>   - A beginner-friendly code repository where newcomers write their first "Hello World" program 👋
+>   - A educational code repository consolidating various JS/Python mini projects & various programming languages cheatsheets or educational resources 📚
 
 ## Hacktoberfest 2022
 Great news everyone, we are participating in Hacktoberfest 2022 & building our very own community website 🥳!
