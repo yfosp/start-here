@@ -35,7 +35,7 @@
 ## To Do's (KIV)
 > **Note**
 > - Think of new open source code repositories which members can contribute to. Possible ideas:
->   - A Community Website built using either using either a) HTML/CSS/JS or b) React & TypeScript 🌐
+>   - A Community Website built using either using either a) HTML/CSS/JS or b) React.js/Next.js/JavaScript/TypeScript 🌐
 
 ## Hacktoberfest 2022
 Great news everyone, we are participating in Hacktoberfest 2022 & building our very own community website 🥳!
