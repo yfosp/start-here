@@ -35,7 +35,12 @@
 ## To Do's (KIV)
 > **Note**
 > - Think of new open source code repositories which members can contribute to. Possible ideas:
->   - A Community Website built using React and TypeScript 🌐
+>   - A Community Website built using either using either a) HTML/CSS/JS or b) React & TypeScript 🌐
+
+## Hacktoberfest 2022
+Great news everyone, we are participating in Hacktoberfest 2022 🥳!
+
+If you would like to contribute to this community-driven intiative, head over [here](https://github.com/Your-First-Open-Source-Project/Community-Website) and start submitting your PRs now :)
 
 ## Credits
 - Organization logo created by freepik - <a href="https://www.freepik.com/vectors/html">www.freepik.com</a>
