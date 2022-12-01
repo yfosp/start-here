@@ -69,5 +69,5 @@ Add your **i) Github username** and **ii) GitHub profile link** to the **Contrib
 59. [Angry Era](https://github.com/angryera)
 60. [thisisharsh7](https://github.com/thisisharsh7)
 61. [RyanWong25](https://github.com/RyanWong25)
-62. [Amal Benny](https://GitHub.com/amalbenny)
+62. [Amal Benny](https://GitHub.com/amalvelloor)
 63. [Abdullah Sajid](https://github.com/abdullahsajid-ma)
