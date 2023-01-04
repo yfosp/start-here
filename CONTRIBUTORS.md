@@ -1,4 +1,3 @@
-<!-- @format -->
 
 # Contributors List
 
@@ -66,3 +65,17 @@ Add your **i) Github username** and **ii) GitHub profile link** to the **Contrib
 54. [tinniaru3005](https://github.com/tinniaru3005)
 55. [ElvisGT](https://github.com/ElvisGT)
 56. [techEmprez](https://github.com/techEmprez)
+56. [justaveragecoder](https://github.com/justaveragecoder)
+57. [b3hzzzad](https://github.com/b3hzzzad)
+58. [Ninja-21-dev](https://github.com/Ninja-21-dev)
+59. [Angry Era](https://github.com/angryera)
+60. [thisisharsh7](https://github.com/thisisharsh7)
+61. [RyanWong25](https://github.com/RyanWong25)
+62. [Amal Benny](https://GitHub.com/amalvelloor)
+63. [Abdullah Sajid](https://github.com/abdullahsajid-ma)
+64. [Abeer-Abdelhamid](https://github.com/Abeer-Abdelhamid)
+65. [RaviYadav369](https://github.com/RaviYadav369)
+66. [AjayAnuragi](https://github.com/ajayanuragi)
+67. [amcgrory1](https://github.com/amcgrory1)
+68. [Chi Heb Din](https://github.com/d3j1x)
+69. [tomtricks](https://github.com/tomtricks)
