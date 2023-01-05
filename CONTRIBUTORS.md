@@ -64,7 +64,6 @@ Add your **i) Github username** and **ii) GitHub profile link** to the **Contrib
 53. [saadman-galib](https://github.com/saadman-galib)
 54. [tinniaru3005](https://github.com/tinniaru3005)
 55. [ElvisGT](https://github.com/ElvisGT)
-56. [techEmprez](https://github.com/techEmprez)
 56. [justaveragecoder](https://github.com/justaveragecoder)
 57. [b3hzzzad](https://github.com/b3hzzzad)
 58. [Ninja-21-dev](https://github.com/Ninja-21-dev)
@@ -79,3 +78,4 @@ Add your **i) Github username** and **ii) GitHub profile link** to the **Contrib
 67. [amcgrory1](https://github.com/amcgrory1)
 68. [Chi Heb Din](https://github.com/d3j1x)
 69. [tomtricks](https://github.com/tomtricks)
+70. [techEmprez](https://github.com/techEmprez)
