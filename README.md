@@ -34,7 +34,7 @@ Our mission is to provide a safe space to support everyone on their journey to b
 
 ## Status
 
-- You can start submitting your contributions/PRs right now ^^
+- You can start submitting your contributions/PRs right now
 - Also, feel free to **follow me** on GitHub, **star** this repository, **share** it with your friends.
 
 ## To Do's (KIV)
