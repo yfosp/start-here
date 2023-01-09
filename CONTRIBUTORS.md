@@ -78,3 +78,4 @@ Add your **i) Github username** and **ii) GitHub profile link** to the **Contrib
 68. [Chi Heb Din](https://github.com/d3j1x)
 69. [tomtricks](https://github.com/tomtricks)
 70. [techEmprez](https://github.com/techEmprez)
+71. [amalbenny](https://github.com/amalbenny)
