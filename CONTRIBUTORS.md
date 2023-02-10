@@ -86,5 +86,6 @@ Add your **i) Github username** and **ii) GitHub profile link** to the **Contrib
 76. [Rooghz](https://github.com/Rooghz)
 77. [rabby420](https://github.com/rabby420)
 78. [domini04](https://github.com/domini04)
-79. [sudhanshu Gautam](https://github.com/sudhanshugautam2911)
-80. [JoseFBautista94](https://github.com/Josefbautista94)
+79. [sudhanshu Gautam](https://github.com/sudhanshugautam291)
+80. [CodingWithCDJE](https://github.com/CodingWithCDJE)
+81. [JoseFBautista94](https://github.com/Josefbautista94)
