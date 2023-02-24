@@ -92,3 +92,4 @@ Add your **i) Github username** and **ii) GitHub profile link** to the **Contrib
 82. [AbhishekSachdeva07](https://github.com/AbhishekSachdeva07)
 83. [Rei-Suzuki1729](https://github.com/Rei-Suzuki1729)
 84. [mibrahim97](https://github.com/mibrahim97)
+85. [AhorIsaac](https://github.com/AhorIsaac)
