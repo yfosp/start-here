@@ -51,7 +51,7 @@ Our mission is to provide a safe space to support everyone on their journey to b
 
 Great news everyone, we are participating in Hacktoberfest 2022 & building our very own community website 🥳!
 
-If you would like to contribute to this community-driven intiative, head over [here](https://github.com/Your-First-Open-Source-Project/Hacktoberfest2022) and start submitting your PRs now 🎉
+If you would like to contribute to this community-driven intiative, head over [here](https://github.com/Your-First-Open-Source-Project/main-website) and start submitting your PRs now 🎉
 
 ## Credits
 
