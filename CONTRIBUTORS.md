@@ -96,3 +96,4 @@ Add your **i) Github username** and **ii) GitHub profile link** to the **Contrib
 86. [nikashu3110](https://github.com/nikashu3110)
 87. [uuc110](https://github.com/uuc110)
 88. [rakhiazfa](https://github.com/rakhiazfa)
+89. [cleverhare](https://github.com/cleverhare)
