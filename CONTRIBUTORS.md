@@ -100,3 +100,4 @@ Add your **i) Github username** and **ii) GitHub profile link** to the **Contrib
 90. [cleverhare](https://github.com/cleverhare)
 91. [axewhyzed](https://github.com/axewhyzed)
 92. [Viveksati5143](https://github.com/Viveksati5143)
+93. [Geomale25](https://github.com/Geomale25)
