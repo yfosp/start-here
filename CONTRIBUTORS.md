@@ -111,3 +111,4 @@ Add your **i) Github username** and **ii) GitHub profile link** to the **Contrib
 101. [Mohammad Hasan](https://github.com/mohahasan19)
 102. [robert5313](https://github.com/robert5313)
 103. [BioCoderR](https://github.com/BioCoderR)
+104. [kennisnutz](https://github.com/kennisnutz)
