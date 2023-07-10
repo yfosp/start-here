@@ -131,3 +131,4 @@ Add your **i) Github username** and **ii) GitHub profile link** to the **Contrib
 121. [DavOlufuwa](https://github.com/DavOlufuwa)
 122. [Feerse](https://github.com/Feerse)
 123. [TANYA03GUPTA](https://github.com/TANYA03GUPTA)
+124. [BnayaKahalani](https://github.com/BnayaKahalani)
