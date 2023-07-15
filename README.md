@@ -6,7 +6,7 @@
 
 ## Our Mission
 
-Our mission is to provide a safe space to support everyone on their journey to become software developers 👨‍💻
+Our mission is to provide a safe space to support everyone on their journey to become software developers  👨‍💻
 
 ## How to contribute?
 
