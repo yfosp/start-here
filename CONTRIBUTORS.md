@@ -39,7 +39,7 @@ Add your **i) Github username** and **ii) GitHub profile link** to the **Contrib
 29. [Ubaidullahqureshi](https://github.com/Ubaidullahqureshi)
 30. [Abdallah Mohamed](https://github.com/abdallahifox)
 31. [Pavan](https://github.com/P-Pavan)
-32. [flawlesslys](https://github.com/flawlesslys)
+32. [pink-bean](https://github.com/pink-bean)
 33. [nufox227](https://github.com/nufox227)
 34. [JhonnyLusonode](https://github.com/JhonnyLusonode)
 35. [joyandkindness](https://github.com/joyandkindness)
