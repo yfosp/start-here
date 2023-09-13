@@ -141,3 +141,4 @@ Add your **i) Github username** and **ii) GitHub profile link** to the **Contrib
 131. [SetUp](https://github.com/adebayoibrahim)
 132. [Shuklaaa](https://github.com/Shuklaaa)
 133. [MadalitsoNyemba](https://github.com/MadalitsoNyemba)
+134. [Wisxel](https://github.com/Wisxel-Cell)
