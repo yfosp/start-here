@@ -149,4 +149,4 @@ Add your **i) Github username** and **ii) GitHub profile link** to the **Contrib
 139. [jaanvi02](https://github.com/jaanvi02)
 140. [aachal28](https://github.com/aachal28)
 141. [shubhsbankar](https://github.com/shubhsbankar)
-
+142. [jamogh](https://github.com/jamogh)
