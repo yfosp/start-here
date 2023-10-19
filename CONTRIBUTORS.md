@@ -152,3 +152,4 @@ Add your **i) Github username** and **ii) GitHub profile link** to the **Contrib
 142. [jamogh](https://github.com/jamogh)
 143. [Dhaval K](https://github.com/DhavalKanjariya2803)
 144. [Kevin-0-0](https://github.com/Kevin-0-0)
+145. [FarukhS52](https://github.com/FarukhS52)
