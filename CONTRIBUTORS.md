@@ -156,3 +156,4 @@ Add your **i) Github username** and **ii) GitHub profile link** to the **Contrib
 146. [Rohan Sharma](https://github.com/RS-labhub)
 147. [Ahmedraza](https://github.com/ahmedrazabaloch)
 148. [Yash-Mittal](https://github.com/yash358)
+149. [TechnoFreakCritic](https://github.com/Technofreakcritic)
