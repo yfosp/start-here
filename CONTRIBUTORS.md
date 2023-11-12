@@ -158,3 +158,4 @@ Add your **i) Github username** and **ii) GitHub profile link** to the **Contrib
 148. [Yash-Mittal](https://github.com/yash358)
 149. [TechnoFreakCritic](https://github.com/Technofreakcritic)
 150. [Gerardo "Jerry" Valdez](https://github.com/gvaldez0290)
+151. [CoreySmithUCR](https://github.com/CoreySmithUCR)
