@@ -159,3 +159,4 @@ Add your **i) Github username** and **ii) GitHub profile link** to the **Contrib
 149. [TechnoFreakCritic](https://github.com/Technofreakcritic)
 150. [Gerardo "Jerry" Valdez](https://github.com/gvaldez0290)
 151. [CoreySmithUCR](https://github.com/CoreySmithUCR)
+152. [Cowan Wekesa](https://github.com/cowanweks)
