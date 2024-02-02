@@ -39,7 +39,7 @@ Our mission is to provide a safe space to support everyone on their journey to b
 
 ## Check out our other repositories
 
-> **Note to take!**
+> **Note**
 >
 > - [Community Website repo 🌐](https://github.com/Your-First-Open-Source-Project/main-website)
 > - [AWS Educational Resources repo ☁️](https://github.com/Your-First-Open-Source-Project/aws-resources)
