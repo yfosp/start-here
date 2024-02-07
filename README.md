@@ -1,4 +1,4 @@
-# Your First Open Source Project
+# Your First Open Source Project                                    /// info su come partecipare al tuo primo progetto open_source_ ///
 
 - New to Open Source Projects & not sure where to begin?
 - Fret not!
@@ -8,7 +8,7 @@
 
 Our mission is to provide a safe space to support everyone on their journey to become software developers 👨‍💻
 
-## How to contribute
+## How to contribute                                                   /// tutti i passaggi uno ad uno ///
 
 1. Fork this code repository.
 2. Add your Github username and Github profile link in the CONTRIBUTORS.md file.
