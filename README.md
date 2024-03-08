@@ -47,8 +47,6 @@ Our mission is to provide a safe space to support everyone on their journey to b
 ## Future plans
 
 - Communication & collaboration is currently done via GitHub Organization
-- We may set up a [Discord server](https://discord.com/) to facilitate communication & collaboration opportunities in the future (KIV)
-
-## Credits
-
-- Organization logo created by freepik - <a href="https://www.freepik.com/vectors/html">www.freepik.com</a>
+- We may set up a [Discord server](https://discord.com/) to facilitate communication & collaboration opportunities in the future (##
+  
+testing for PRs
