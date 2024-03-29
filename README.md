@@ -51,4 +51,4 @@ Our mission is to provide a safe space to support everyone on their journey to b
 
 ## Credits
 
-- Organization logo created by @melvincwng
+- Organization logo created by [@melvincwng](https://github.com/melvincwng)
