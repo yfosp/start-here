@@ -195,5 +195,4 @@ Add your **i) Github username** and **ii) GitHub profile link** to the **Contrib
 185. [Kosa12](https://github.com/kosa12)
 186. [HarshDekate](https://github.com/HarshDekate)
 187. [Adarshagupta](https://github.com/Adarshagupta)
-188. [Aamiroll]
-(https://github.com/Aamiroll)
+188. [Aamiroll](https://github.com/Aamiroll)
