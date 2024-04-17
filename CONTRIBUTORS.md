@@ -199,4 +199,4 @@ Add your **i) Github username** and **ii) GitHub profile link** to the **Contrib
 189. [KevinNitroG](https//github.com/KevinNitroG)
 190. [Angelo-Destin](https://github.com/Angelo-Destin)
 191. [DevSaLLein](https://github.com/DevSaLLein)
-192. [Michael Münzenhofer](https://github.com/StackOverflowIsBetterThanAnyAI)
+192. [StackOverflowIsBetterThanAnyAI](https://github.com/StackOverflowIsBetterThanAnyAI)
