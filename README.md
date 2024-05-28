@@ -15,7 +15,7 @@ Our mission is to provide a safe space to support everyone on their journey to b
 3. Submit a PR.
 4. Wait for your PR to be reviewed, approved & merged by an admin/owner.
 5. If there are issues with your PR, please revise them in accordance to the comments made by the admins.
-6. Once your PR is approved and merged into the codebase, you will receive a **special** reward :)
+6. Once your PR is approved and merged into the codebase, you will receive a **special reward from Holopin** :)
 
 ## How to join this organization
 
