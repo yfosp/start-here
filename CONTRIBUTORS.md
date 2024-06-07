@@ -219,3 +219,4 @@ Add your **i) Github username** and **ii) GitHub profile link** to the **Contrib
 209. [tatkins20](https://github.com/tatkins20)
 210. [ItsLasa](https://github.com/ItsLasa)
 211. [YoruAlptraum](https://github.com/YoruAlptraum)
+212. [jacobmcazure](https://github.com/jacobmcazure)
