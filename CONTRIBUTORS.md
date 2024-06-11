@@ -222,4 +222,5 @@ Add your **i) Github username** and **ii) GitHub profile link** to the **Contrib
 212. [jacobmcazure](https://github.com/jacobmcazure)
 213. [Ncherfaoui](https://github.com/NCherfaoui)
 214. [krishealty](https://github.com/krishealty)
-215. [GayathriPCh](https://github.com/GayathriPCh)
+215. [GayathriPCh](https://github.com/GayathriPCh) 
+216. [Félix Domingos](https://github.com/felixdomingos1)  
