@@ -7,7 +7,6 @@ Add your **i) Github username** and **ii) GitHub profile link** to the **Contrib
 1. [melvincwng](https://github.com/melvincwng)
 
 ## Contributors
-0. [Félix Domingos](https://github.com/felixdomingos1)
 1. 1. [VaibhavWadibhasme](https://github.com/VaibhavWadibhasme)
 2. [AlexandreMarcos94](https://github.com/AlexandreMarcos94)
 3. [archhijack](https://github.com/archhijack)
@@ -221,4 +220,5 @@ Add your **i) Github username** and **ii) GitHub profile link** to the **Contrib
 211. [YoruAlptraum](https://github.com/YoruAlptraum)
 212. [jacobmcazure](https://github.com/jacobmcazure)
 213. [Ncherfaoui](https://github.com/NCherfaoui)
-214. 1. [krishealty](https://github.com/krishealty)
+214. [krishealty](https://github.com/krishealty)
+215. [Félix Domingos](https://github.com/felixdomingos1)     
