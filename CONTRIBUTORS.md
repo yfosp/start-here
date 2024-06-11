@@ -8,7 +8,7 @@ Add your **i) Github username** and **ii) GitHub profile link** to the **Contrib
 
 ## Contributors
 
-1. [VaibhavWadibhasme](https://github.com/VaibhavWadibhasme)
+1. [krishealty](https://github.com/krishealty)
 2. [AlexandreMarcos94](https://github.com/AlexandreMarcos94)
 3. [archhijack](https://github.com/archhijack)
 4. [AvidCoder101](https://github.com/AvidCoder101)
@@ -221,3 +221,4 @@ Add your **i) Github username** and **ii) GitHub profile link** to the **Contrib
 211. [YoruAlptraum](https://github.com/YoruAlptraum)
 212. [jacobmcazure](https://github.com/jacobmcazure)
 213. [Ncherfaoui](https://github.com/NCherfaoui)
+214. [VaibhavWadibhasme](https://github.com/VaibhavWadibhasme)
