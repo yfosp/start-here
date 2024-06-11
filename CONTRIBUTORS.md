@@ -7,8 +7,8 @@ Add your **i) Github username** and **ii) GitHub profile link** to the **Contrib
 1. [melvincwng](https://github.com/melvincwng)
 
 ## Contributors
-0.[Félix Domingos](https://github.com/felixdomingos1)
-1. [VaibhavWadibhasme](https://github.com/VaibhavWadibhasme)
+0. [Félix Domingos](https://github.com/felixdomingos1)
+1. 1. [VaibhavWadibhasme](https://github.com/VaibhavWadibhasme)
 2. [AlexandreMarcos94](https://github.com/AlexandreMarcos94)
 3. [archhijack](https://github.com/archhijack)
 4. [AvidCoder101](https://github.com/AvidCoder101)
