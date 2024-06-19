@@ -231,3 +231,4 @@ Add your **i) Github username** and **ii) GitHub profile link** to the **Contrib
 221. [tmanas06](https://github.com/tmanas06)
 222. [Ariyo Aresa](https://github.com/ariyoaresa)
 223. [Niraj Parmar](https://github.com/Niraj1608)
+224. [Ishaan Gupta](https://github.com/ishaan-boss)
