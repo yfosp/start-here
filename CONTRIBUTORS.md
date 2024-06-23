@@ -234,3 +234,4 @@ Add your **i) Github username** and **ii) GitHub profile link** to the **Contrib
 224. [Ishaan Gupta](https://github.com/ishaan-boss)
 225. [code-with-dhruv](https://github.com/code-with-dhruv)
 226. [RakinduM](https://github.com/RakinduM)
+227. [scode550](https://github.com/scode550)
