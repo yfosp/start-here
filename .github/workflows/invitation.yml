@@ -9,7 +9,7 @@ jobs:
       - name: Invite on label
         uses: vj-abigo/invite-on-label@v1.3
         with:
-          organization: Your-First-Open-Source-Project
+          organization: yfosp
           label: invite me to the organization
           repo-token: ${{ secrets.GITHUB_TOKEN }}
           comment: |
