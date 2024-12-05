@@ -20,6 +20,6 @@ jobs:
             - Change the appearance of this organization to 'Public' over [here](https://github.com/orgs/Your-First-Open-Source-Project/people).
             - Be nice, courteous and friendly to everyone in this group 😊
             - Hope to see your first PR to the organization soon :)
-            - Follow [me](https://github.com/melvincwng) & [this organization](https://github.com/Your-First-Open-Source-Project) on GitHub to stay updated with the latest developments for this project!
+            - Follow [me](https://github.com/melvincwng) & [this organization](https://github.com/yfosp) on GitHub to stay updated with the latest developments for this project!
         env:
           INVITE_TOKEN: ${{ secrets.INVITE_TOKEN }}
