@@ -80,11 +80,3 @@ Our mission is to provide a safe space to support everyone on their journey to b
 ## Credits
 
 - Organization logo created by [@melvincwng](https://github.com/melvincwng)
-
-
-
-<div align="center">
-    <a href="#top">
-        <img src="https://img.shields.io/badge/Back%20to%20Top-000000?style=for-the-badge&logo=github&logoColor=white" alt="Back to Top">
-    </a>
-</div>
