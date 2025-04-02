@@ -12,7 +12,7 @@
             <td><b>🐛 Issues</b></td>
             <td><b>🔔 Open PRs</b></td>
             <td><b>🔕 Closed PRs</b></td>
-        </tr>
+        </tr> 
      </thead>
     <tbody>
          <tr>
