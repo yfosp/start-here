@@ -287,3 +287,4 @@ Add your **i) Github username** and **ii) GitHub profile link** to the **Contrib
 277. [Hirak-abc](https://github.com/Hirak-abc)
 278. [Prathmesh Kushwaha](https://github.com/PrathmeshKushwaha)
 279. [Sriramm-15](https://github.com/Sriramm-15)
+280. [AutoFTbot](https://github.com/AutoFTbot)
