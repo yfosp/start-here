@@ -304,3 +304,4 @@ Add your **i) Github username** and **ii) GitHub profile link** to the **Contrib
 294. [Khabab Akhtar](https://github.com/Khababakhtar20)
 295. [Rohan](https://github.com/Rohhaannn)
 296. [Samrita Khurana](https://github.com/samritakhurana)
+297. [Eugênio Araújo](https://github.com/eugeniol2)
