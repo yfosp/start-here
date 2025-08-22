@@ -8,7 +8,7 @@ Add your **i) Github username** and **ii) GitHub profile link** to the **Contrib
 
 ## Contributors
 
-0. [Lincoln-Madaraka](https://github.com/Lincoln-Madaraka)
+
 1. [VaibhavWadibhasme](https://github.com/VaibhavWadibhasme)
 2. [AlexandreMarcos94](https://github.com/AlexandreMarcos94)
 3. [archhijack](https://github.com/archhijack)
@@ -307,3 +307,4 @@ Add your **i) Github username** and **ii) GitHub profile link** to the **Contrib
 296. [Samrita Khurana](https://github.com/samritakhurana)
 297. [Eugênio Araújo](https://github.com/eugeniol2)
 298. [MotoAcidic](https://github.com/MotoAcidic)
+299. [Lincoln-Madaraka](https://github.com/Lincoln-Madaraka)
