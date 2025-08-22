@@ -306,3 +306,4 @@ Add your **i) Github username** and **ii) GitHub profile link** to the **Contrib
 296. [Samrita Khurana](https://github.com/samritakhurana)
 297. [Eugênio Araújo](https://github.com/eugeniol2)
 298. [MotoAcidic](https://github.com/MotoAcidic)
+299. [Lincoln-Madaraka](https://github.com/Lincoln-Madaraka)
