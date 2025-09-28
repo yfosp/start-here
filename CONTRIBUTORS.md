@@ -319,3 +319,4 @@ Add your **i) Github username** and **ii) GitHub profile link** to the **Contrib
 309. [Sl0th-Silence](https://github.com/Sl0th-Silence)
 310. [denisfrd](https://github.com/denisfrd)
 311. [aditya2003-bit](https://github.com/aditya2003-bit)
+312. [rohitx01](https://github.com/rohitx01)
