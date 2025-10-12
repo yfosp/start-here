@@ -49,8 +49,8 @@ Our mission is to provide a safe space to support everyone on their journey to b
 4. After joining this organization, please do the following:
    - Star this repo
    - Submit a PR containing your name & GitHub profile link in CONTRIBUTORS.md (if you haven't done so yet)
-   - Next, click [here](https://github.com/yfosp)
-   - Then click on the 'People' tab
+   - Next, click [here](https://github.com/orgs/yfosp/people)
+   - Find your name in the members list
    - Next, toggle your organization visibility from 'Private' to 'Public'
 5. Admins/Owners of the organization are free to invite any other GitHub users to the organization.
 
