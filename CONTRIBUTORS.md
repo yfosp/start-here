@@ -327,5 +327,5 @@ Add your **i) Github username** and **ii) GitHub profile link** to the **Contrib
 317. [Shivraj Singh Pipawad](https://github.com/shivraj-io)
 318. [mnapo](https://github.com/mnapo)
 319. [sathwik-ace-69](https://github.com/sathwik-ace-69)
-320. [raajpatre] (https://github.com/raajpatre)
+320. [raajpatre](https://github.com/raajpatre)
 
