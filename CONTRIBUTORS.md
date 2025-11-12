@@ -334,3 +334,4 @@ Add your **i) Github username** and **ii) GitHub profile link** to the **Contrib
 324. [anjali-newton](https://github.com/anjali-newton)
 325. [anshumanjadiya1102](https://github.com/anshumanjadiya1102)
 326. [jeturgavli](https://github.com/jeturgavli)
+327. [Satya-prakash3](https://github.com/Satya-prakash3)
