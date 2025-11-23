@@ -338,3 +338,5 @@ Add your **i) Github username** and **ii) GitHub profile link** to the **Contrib
 328. [SimardeepSingh-zsh](https://github.com/SimardeepSingh-zsh)
 329. [Omcodes23](https://github.com/Omcodes23)
 330. [Mahi-korrapati](https://github.com/Mahi-korrapati)
+. [0NIKHIL0](https://github.com/0NIKHIL0)
+
