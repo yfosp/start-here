@@ -9,7 +9,6 @@ Add your **i) Github username** and **ii) GitHub profile link** to the **Contrib
 ## Contributors
 
 1. [VaibhavWadibhasme](https://github.com/VaibhavWadibhasme)
-2. [Devflex-ai](https://github.com/devflex-ai)
 3. [AlexandreMarcos94](https://github.com/AlexandreMarcos94)
 4. [archhijack](https://github.com/archhijack)
 5. [AvidCoder101](https://github.com/AvidCoder101)
@@ -368,4 +367,5 @@ Add your **i) Github username** and **ii) GitHub profile link** to the **Contrib
 358. [KRYSTALM7](https://github.com/KRYSTALM7)
 359. [Aniket Singh](https://github.com/aniketsingh1023)
 360. [Kunal Mamgai](https://github.com/kunalmamgai)
+361. [Devflex-ai](https://github.com/devflex-ai)
 
