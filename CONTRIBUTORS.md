@@ -367,3 +367,4 @@ Add your **i) Github username** and **ii) GitHub profile link** to the **Contrib
 357. [KRYSTALM7](https://github.com/KRYSTALM7)
 358. [Aniket Singh](https://github.com/aniketsingh1023)
 359. [Kunal Mamgai](https://github.com/kunalmamgai)
+[devflex-ai](https://github.com/devflex-ai)
