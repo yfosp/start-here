@@ -32,7 +32,7 @@ Our mission is to provide a safe space to support everyone on their journey to b
 ## How to contribute
 
 1. Fork this code repository.
-2. Add your Github username and Github profile link in the CONTRIBUTORS.md file.
+2. Add your Github username and Github profile link **at the bottom of the list** in the CONTRIBUTORS.md file (DO NOT modify other people's entries).
 3. Submit a PR.
 4. Wait for your PR to be reviewed, approved & merged by an admin/owner.
 5. If there are issues with your PR, please revise them in accordance to the comments made by the admins.
