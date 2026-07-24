@@ -379,3 +379,4 @@ Add your **i) Github username** and **ii) GitHub profile link** to the **Contrib
 369. [ICT154](https://github.com/ICT154)
 370. [Heramb-Rallapally](https://github.com/Heramb-Rallapally)
 371. [Dirga36](https://github.com/Dirga36)
+372. [P-Pranjali](https://github.com/P-Pranjali)
