@@ -388,3 +388,4 @@ Add your **i) Github username** and **ii) GitHub profile link** to the **Contrib
 378. [Allankw-dev](https://github.com/Allankw-dev)
 379. [Tabiq Zargar](https://github.com/TabiqZargar)
 380. [Zhanglinxi0410](https://github.com/Zhanglinxi0410)
+381. [Sarcastic-Soul](https://github.com/Sarcastic-Soul)
