@@ -65,6 +65,7 @@ Our mission is to provide a safe space to support everyone on their journey to b
 >
 > - [Community Website repo 🌐](https://github.com/Your-First-Open-Source-Project/main-website)
 > - [AWS Educational Resources repo ☁️](https://github.com/Your-First-Open-Source-Project/aws-resources)
+> - [Help us with Open Source Research 🔬](https://forms.gle/JCpkf4Ya3L2c2xjf7)
 
 ## Our Contributors ❤️
 
