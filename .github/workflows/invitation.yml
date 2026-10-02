@@ -21,5 +21,6 @@ jobs:
             - Be nice, courteous and friendly to everyone in this group 😊
             - Hope to see your first PR to the organization soon :)
             - Follow [me](https://github.com/melvincwng) & [this organization](https://github.com/yfosp) on GitHub to stay updated with the latest developments for this project!
+            - Help us in [Open Source Research](https://forms.gle/JCpkf4Ya3L2c2xjf7), **every survey response counts** 🔬
         env:
           INVITE_TOKEN: ${{ secrets.INVITE_TOKEN }}
