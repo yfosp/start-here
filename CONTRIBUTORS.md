@@ -390,3 +390,4 @@ Add your **i) Github username** and **ii) GitHub profile link** to the **Contrib
 380. [Zhanglinxi0410](https://github.com/Zhanglinxi0410)
 381. [Liomotolani](https://github.com/Liomotolani)
 382. [Sarcastic-Soul](https://github.com/Sarcastic-Soul)
+383. [minKasent](https://github.com/minKasent)
