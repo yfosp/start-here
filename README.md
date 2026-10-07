@@ -29,14 +29,16 @@
 
 Our mission is to provide a safe space to support everyone on their journey to become software developers 👨‍💻
 
-## How to contribute
+## How to contribute to Your First Open Source Project & Open Source Research (READ INSTRUCTIONS CAREFULLY)
 
 1. Fork this code repository.
 2. Add your Github username and Github profile link **at the bottom of the list** in the CONTRIBUTORS.md file (DO NOT modify other people's entries).
 3. Submit a PR.
-4. Wait for your PR to be reviewed, approved & merged by an admin/owner.
-5. If there are issues with your PR, please revise them in accordance to the comments made by the admins.
-6. Once your PR is approved and merged into the codebase, you will receive a **special reward from Holopin** :)
+4. Complete the open source research survey in this [link here](https://forms.gle/JCpkf4Ya3L2c2xjf7), and make sure to include your GitHub username for verification purposes (**Mandatory ❗️**).
+5. Wait for your PR to be reviewed, approved & merged by an admin/owner.
+6. Note: To ensure your pull request is reviewed, please verify that your [survey](https://forms.gle/JCpkf4Ya3L2c2xjf7) entry has been submitted. Pull requests without a corresponding survey entry cannot be accepted.
+7. If there are issues with your PR, please revise them in accordance to the comments made by the admins.
+8. Once your PR is approved and merged into the codebase, you will receive a **special reward from Holopin** :)
 
 ## How to join this organization
 
